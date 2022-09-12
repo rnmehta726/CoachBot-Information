@@ -8,25 +8,25 @@ This privacy notice for CoachBot (doing business as CoachBot) ("CoachBot," "we,"
 **Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do no agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at coachbot.coach@gmail.com.
 
 ## SUMMARY OF KEY POINTS
-_**This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. You can also click here to go directly to our table of contents.**_
+_**This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for.**_
 
-**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with CoachBot and the Services, the choices you make, and the products and features you use. Click here to learn more.
+**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with CoachBot and the Services, the choices you make, and the products and features you use. Click [here](https://github.com/rnmehta726/CoachBot_Privacy_Policy/edit/main/Privacy%20Policy.md#personal-information-you-disclose-to-us) to learn more.
 
-**Do we process any sensitive personal information?** We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Click here to learn more.
+**Do we process any sensitive personal information?** We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Click [here](https://github.com/rnmehta726/CoachBot_Privacy_Policy/edit/main/Privacy%20Policy.md#2-how-do-we-process-your-information) to learn more.
 
 **Do we receive any information from third parties?** We do not receive any information from third parties.
 
-**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click here to learn more.
+**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click [here](https://github.com/rnmehta726/CoachBot_Privacy_Policy/edit/main/Privacy%20Policy.md#3-what-legal-bases-do-we-rely-on-to-process-your-information) to learn more.
 
-**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Click here to learn more.
+**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Click [here](https://github.com/rnmehta726/CoachBot_Privacy_Policy/edit/main/Privacy%20Policy.md#4-when-and-with-whom-do-we-share-your-personal-information) to learn more.
 
-**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Click here to learn more.
+**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Click [here](https://github.com/rnmehta726/CoachBot_Privacy_Policy/edit/main/Privacy%20Policy.md#6-how-do-we-keep-your-information-safe) to learn more.
 
-**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Click here to learn more.
+**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Click [here](https://github.com/rnmehta726/CoachBot_Privacy_Policy/edit/main/Privacy%20Policy.md#7-what-are-your-privacy-rights) to learn more.
 
 **How do you exercise your rights?** The easiest way to exercise your rights is by filling out our data subject request form available here, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
-Want to learn more about what CoachBot does with any information we collect? Click here to review the notice in full.
+Want to learn more about what CoachBot does with any information we collect? Click [here](https://github.com/rnmehta726/CoachBot_Privacy_Policy/edit/main/Privacy%20Policy.md#1-what-information-do-we-collect) to review the notice in full.
 
 ## TABLE OF CONTENTS
 
@@ -217,7 +217,20 @@ If this definition of "resident" applies to you, we must adhere to certain right
 
 We have collected the following categories of personal information in the past twelve (12) months:
 
-**PUT IN TABLE HERE**
+
+|Category |Examples |Collected|
+|:--------|:--------|:-------:|
+|A. Identifiers|Contact details, such as real name, alias, postal address,telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name|YES|
+|B. Personal information categories listed in California Customer Records statue|Name, contact information, education, employment history, and financial information|YES|
+|C. Protected classification characteristics under California or federal law|Gender and date of birth|YES|
+|D. Commercial information|Transactional information, purchase history, financial details, and payment information|NO|
+|E. Biometric information|Fingerprints and voiceprints|NO|
+|F. Internet or other similar network activity|Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements|NO|
+|G. Geolocation data|Device Location|NO|
+|H. Audio, electronic, visual, thermal, olfactory, or similar information|Images and audio, video or call recordings created in connection with our business activities|YES|
+|I. Professional or employment-related information|Business contact details in order to provide you our Services at a business Professional or employment-related information level or job title, work history, and professional qualifications if you apply for a job with us|NO|
+|J. Education Information|Student records and directory information|NO|
+|K. Inferences drawn from other personal information|Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual's preferences and characteristics|NO|
 
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
 
@@ -308,6 +321,6 @@ United States
 
 ## 12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please submit a request form by clicking here.
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please submit a request by emailing us at coachbot.coach@gmail.com.
 
 This privacy policy was created using Termly's Privacy Policy Generator.
