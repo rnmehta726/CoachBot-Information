@@ -154,7 +154,7 @@ We may need to share your personal information in the following situations:
 
 ## 5. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-_**In Short:**_ W_e keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law._
+_**In Short:**_ _We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law._
 
 We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than.
 
